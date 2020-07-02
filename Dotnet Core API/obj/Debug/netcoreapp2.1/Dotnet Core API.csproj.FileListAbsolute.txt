@@ -1,0 +1,14 @@
+E:\MVC\Dotnet Core API\Dotnet Core API\bin\Debug\netcoreapp2.1\Dotnet Core API.deps.json
+E:\MVC\Dotnet Core API\Dotnet Core API\bin\Debug\netcoreapp2.1\Dotnet Core API.runtimeconfig.json
+E:\MVC\Dotnet Core API\Dotnet Core API\bin\Debug\netcoreapp2.1\Dotnet Core API.runtimeconfig.dev.json
+E:\MVC\Dotnet Core API\Dotnet Core API\bin\Debug\netcoreapp2.1\Dotnet Core API.dll
+E:\MVC\Dotnet Core API\Dotnet Core API\bin\Debug\netcoreapp2.1\Dotnet Core API.pdb
+E:\MVC\Dotnet Core API\Dotnet Core API\obj\Debug\netcoreapp2.1\Dotnet Core API.csprojAssemblyReference.cache
+E:\MVC\Dotnet Core API\Dotnet Core API\obj\Debug\netcoreapp2.1\Dotnet Core API.csproj.CoreCompileInputs.cache
+E:\MVC\Dotnet Core API\Dotnet Core API\obj\Debug\netcoreapp2.1\Dotnet Core API.RazorAssemblyInfo.cache
+E:\MVC\Dotnet Core API\Dotnet Core API\obj\Debug\netcoreapp2.1\Dotnet Core API.RazorAssemblyInfo.cs
+E:\MVC\Dotnet Core API\Dotnet Core API\obj\Debug\netcoreapp2.1\Dotnet Core API.AssemblyInfoInputs.cache
+E:\MVC\Dotnet Core API\Dotnet Core API\obj\Debug\netcoreapp2.1\Dotnet Core API.AssemblyInfo.cs
+E:\MVC\Dotnet Core API\Dotnet Core API\obj\Debug\netcoreapp2.1\Dotnet Core API.RazorTargetAssemblyInfo.cache
+E:\MVC\Dotnet Core API\Dotnet Core API\obj\Debug\netcoreapp2.1\Dotnet Core API.dll
+E:\MVC\Dotnet Core API\Dotnet Core API\obj\Debug\netcoreapp2.1\Dotnet Core API.pdb
